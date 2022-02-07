@@ -1,0 +1,10 @@
+/* .navbar {
+    display: flex;
+    justify-content: space-between;
+} */
+
+.trSinhvien:hover {
+    background-color: darkred;
+    color: #fff;
+    cursor: pointer;
+}
